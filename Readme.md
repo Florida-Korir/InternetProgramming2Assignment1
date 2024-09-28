@@ -31,6 +31,17 @@ If you're using XAMPP or WAMP, place the calculator.php file inside the server's
 
 For XAMPP:
 ```bash
-Copy code
 C:\xampp\htdocs\
 ```
+
+### 3. Start Your PHP Server
+Start the Apache server from your XAMPP control panel:
+
+For XAMPP:
+
+Open the XAMPP Control Panel.
+Click on Start next to Apache to run the PHP server.
+
+### 4. Access the Calculator in Your Browser
+Open your browser and go to:
+http://localhost/calculator.php
