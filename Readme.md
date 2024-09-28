@@ -23,3 +23,14 @@ Follow these steps to set up and run the calculator:
 You can download the code from this repository or clone it using:
 ```bash
 git clone <repository_url>
+```
+
+
+### 2. Move the PHP File to Your Server Directory
+If you're using XAMPP or WAMP, place the calculator.php file inside the server's root directory:
+
+For XAMPP:
+```bash
+Copy code
+C:\xampp\htdocs\
+```
